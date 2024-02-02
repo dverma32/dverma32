@@ -29,10 +29,8 @@ I'm currently exploring Python, Django , and I'm excited to deepen my knowledge 
 
 ## 📫 Let's Connect
 
-- LinkedIn: linkedin.com/in/deepakverma-
-4a9569228
-- Twitter: @https://www.x.com/its_DVe
-rma
+- LinkedIn: linkedin.com/in/deepakverma-4a9569228
+- Twitter: @https://www.x.com/its_DVerma
 - Personal Website: https://dverma.vercel.app/
 
 Feel free to reach out if you have any questions or just want to chat!
