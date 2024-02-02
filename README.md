@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Deepak Verma, a passionate Web Developer based in Gurugram, Haryana. I love technologies and enjoy working on technologies like Python, Djang, Html/css, etc. This GitHub repository serves as a portfolio of my projects and contributions.
+Hi there! I'm Deepak Verma, a passionate Web Developer based in Gurugram, Haryana. I love technologies and enjoy working on technologies like Python, Django, Html/css, etc. This GitHub repository serves as a portfolio of my projects and contributions.
 
 ## 🚀 Featured Projects
 
